@@ -1,2 +1,3 @@
-# lite-content-cms-crdk
-A content management system for modern development workflows
+# Lite Content Cms Crdk
+
+A content management system for modern development workflows.
